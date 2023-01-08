@@ -1,0 +1,6 @@
+2023-01-08 11:43:35.831908: Nightly Batch Started
+2023-01-08 11:43:35.831908: Starting the Extraction Process
+2023-01-08 11:43:36.051504: query error: 
+                    SELECT * FROM RETAIL_DWH.SOURCE.COUNTRY
+            
+2023-01-08 11:43:36.051504: 

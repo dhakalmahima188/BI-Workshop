@@ -1,0 +1,3 @@
+product dimensiom : represents the product lines that the company sells
+genereate info : hightest profit, analyze trends
+hierarchy :

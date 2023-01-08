@@ -1,0 +1,24 @@
+{
+  "USER": "mahimadhakal",
+  "PASSWORD": "Mahima@123*",
+  "ACCOUNT": "aw57390.ap-south-1.aws",
+  "DATABASE": "RETAIL_DWH",
+  "SCHEMA": "SOURCE",
+  "SOURCE_SCHEMA": "SOURCE",
+  "STAGE_SCHEMA": "STAGE",
+  "TEMP_SCHEMA": "TEMP",
+  "TARGET_SCHEMA": "TARGET",
+
+  "FILE_FORMAT": "ETL",
+
+  "ISTAGE": "INTERNAL_FILE_STAGE",
+  "DATA_WAREHOUSE": "COMPUTE_WH",
+  "STAGE_PREFIX": "STG",
+
+  "TEMPORARY_PREFIX": "TMP",
+
+  "COMPRESSION_OPTION": "none",
+
+  "OVERWRITE_FLAG": "True",
+  "LOG_PATH": "C:\\Users\\Windows\\Downloads\\lis_bi_workshop-external_bootcamp\\lis_bi_workshop-external_bootcamp\\logs"
+}
